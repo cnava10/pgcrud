@@ -1,0 +1,19 @@
+{
+  "name": "pgcrud",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "ejs": "^5.0.2",
+    "express": "^5.2.1",
+    "method-override": "^3.0.0",
+    "pg": "^8.20.0"
+  }
+}
